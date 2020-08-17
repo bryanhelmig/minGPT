@@ -1,2 +1,7 @@
 .ipynb_checkpoints/
 __pycache__/
+.venv
+*.egg-info
+.vscode
+*.txt
+.envrc
